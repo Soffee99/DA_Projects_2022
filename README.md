@@ -18,4 +18,4 @@
 6. предложить меры по снижению оттока;
 7. определить другие особенности взаимодействия с клиентами.
 
-Используемый стек: python, pandas, itertools, numpy, seaborn, matplotlib, sklearn, scipy
+Используемый стек: python, pandas, itertools, numpy, seaborn, matplotlib, sklearn, scipy, ML, кластеризация
