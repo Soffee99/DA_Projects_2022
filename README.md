@@ -40,11 +40,11 @@
 
 **Cтек:** Python, Pandas, Numpy, Seaborn, Matplotlib, Datetime
 
-7. **[]()**
+7. **[SQL](https://github.com/Soffee99/DA_projects_2022/tree/main/SQL)**
 
-**Выполнено:** EDA
+**Выполнено:** 23 задачи
 
-**Cтек:** 
+**Cтек:** SQL
 
 8. **[]()**
 
