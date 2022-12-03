@@ -13,4 +13,4 @@
 5. Подготовить план рекомендаций по удержанию клиентов.
 
 ### Используемый стек: 
-Python, Pandas, Itertools, Numpy, Plotly, Seaborn, Matplotlib, Sklearn, Scipy, ML, кластеризация, Tableay, KeyNote
+Python, Pandas, Itertools, Numpy, Plotly, Seaborn, Matplotlib, Sklearn, Scipy, ML, кластеризация, Tableau, Keynote
