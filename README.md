@@ -52,11 +52,11 @@
 
 **Cтек:** SQL, Tableau
 
-9. **[]()**
+9. **[Анализ А/В теста](https://github.com/Soffee99/DA_projects_2022/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%90B%20%D1%82%D0%B5%D1%81%D1%82%D0%B0)**
 
-**Выполнено:** EDA
+**Выполнено:** EDA, oценка корректности проведения теста, исследовательский анализ выборок, оценка результатов А/В теста, проверка гипотез
 
-**Cтек:** 
+**Cтек:** Python, Pandas, Numpy, Datetime, Math, Plotly, Seaborn, Matplotlib, Scipy
 
 10. **[]()**
 
