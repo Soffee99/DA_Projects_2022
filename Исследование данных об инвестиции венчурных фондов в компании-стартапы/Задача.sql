@@ -1,12 +1,14 @@
-{\rtf1\ansi\ansicpg1251\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+1. Посчитайте, сколько компаний закрылось 
 
-\f0\fs24 \cf0 SELECT country_code,\
-      SUM(funding_total) AS total\
-FROM company\
-GROUP BY country_code\
-ORDER BY total DESC;}
+SELECT COUNT(status)
+FROM company
+WHERE status LIKE '%closed%';
+
+2. Отобразите количество привлечённых средств для новостных компаний США. Используйте данные из таблицы company. Отсортируйте таблицу по убыванию значений в поле funding_total
+
+SELECT SUM(funding_total) AS funding_total
+FROM company
+WHERE category_code LIKE '%news%'
+  AND country_code LIKE '%USA%'
+GROUP BY name
+ORDER BY funding_total DESC;**
