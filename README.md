@@ -40,7 +40,7 @@
 
 **Cтек:** Python, Pandas, Numpy, Plotly, Seaborn, Matplotlib, Requests, Keynote
 
-7. **[SQL](https://github.com/Soffee99/DA_projects_2022/tree/main/SQL)**
+7. **[Исследование данных об инвестиции венчурных фондов в компании-стартапы](https://github.com/Soffee99/DA_projects_2022/tree/main/SQL)**
 
 **Выполнено:** 23 задачи
 
