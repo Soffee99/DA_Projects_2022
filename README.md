@@ -63,3 +63,10 @@
 **Выполнено:** EDA, деленние данных на выборки, исследование качества моделей: DecisionTree, RandomForest, LogisticRegression
 
 **Cтек:** Python, Pandas, Seaborn, Matplotlib, Sklearn
+
+11. **[Изучение закономерностей, определяющих успешность игр]()**
+
+**Выполнено:** EDA, составление портретов пользователей, проверка гипотез
+
+**Cтек:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scipy
+
